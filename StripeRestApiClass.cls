@@ -1,21 +1,21 @@
 /*
-	Created by: Greg Hacic
-	Last Update: 17 February 2017 by Greg Hacic
-	Questions?: greg@ities.co
+	Created by: Vuk Dukic
+	Last Update: 17 February 2018 by Greg Hacic
+	Questions?:
 	
 	Notes:
 		- API endpoint accepts JSON similar to:
 			{
 				"id": "ch_abcdefghijklmnopqrstuvwx", 
 				"amount": 9900, 
-				"description": "greg@interactiveties.com", 
+				"description": "vuk.dukic@accenture.com", 
 				"source": { 
 					"id": "card_123456789123456789123456", 
 					"brand": "American Express", 
 					"exp_month": 11, 
 					"exp_year": 2021, 
 					"last4": "2222", 
-					"name": "greg@interactiveties.com"
+					"name": "vuk.dukic@accenture.com"
 				}, 
 				"status": "succeeded", 
 				"type": "charge.succeeded" 
