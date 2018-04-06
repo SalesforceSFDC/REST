@@ -1,6 +1,6 @@
 /*
-	Created by: Vuk Dukic
-	Last Update: 17 February 2018 by Greg Hacic
+	Created by: Vuk Djukic
+	Last Update: 17 February 2018 by Vuk Djukic
 	Questions?:
 	
 	Notes:
